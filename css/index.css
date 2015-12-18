@@ -1,0 +1,239 @@
+body{
+	margin: 0;
+	font-family: "微软雅黑"；
+	min-width:980px;
+}
+h1,h2,h3,h4,h5,h6,ul,p{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.container{
+	width: 980px;
+	margin: 0 auto;
+	text-align: center;
+}
+.main-intro p{
+	font-size: 21px;
+	font-family: "微软雅黑";
+}
+.lanse{
+	color: #4078c0;
+}
+/*头部开始*/
+.y{
+	color: #333;
+}
+.heading{
+	padding: 15px 0;
+	background: #f5f5f5;
+}
+.header-c{
+	height: 28px;
+	line-height: 28px;
+}
+.logo{
+	float: left;
+	font-size: 30px;
+	font-weight: bold;
+	margin-right: 10px;
+}
+.search{
+	width: 360px;
+	float: left;
+	border: 1px solid #ccc;
+	background: #fff;
+	padding-left: 15px;
+	text-align: left;
+	font-family: '微软雅黑';
+	color: #767676;
+	font-size: 12px;
+	border-radius: 5px;
+}
+
+.functionlist{
+	float: left;
+}
+.functionlist li{
+	float: left;
+	padding: 0 10px;
+	font-size: 13px;
+	font-weight:bold;
+}
+/*群组组合器*/
+.signup , .signin{
+	float: right;
+	padding: 6px 12px;
+	font-size: 13px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	margin-top: -5px;
+	line-height: 20px;
+	font-weight: bold;
+}
+.signin{
+	background-image: linear-gradient(#eee,#ddd);
+	margin-left: 7px; 
+}
+.signup{
+	color:#f5f5f5; 
+	background-image: linear-gradient(#79d858, #569e3d);
+}
+/*第一块开始*/
+.section{
+	/*border: 1px solid red;*/
+	padding-top:80px;
+	border-bottom:1px solid black;
+}
+.main{
+	background:#202020;
+}
+.main-c{
+	height: 351px;
+}
+.main-intro{
+	width: 640px;
+	color: #f5f5f5;
+	float: left;
+}
+.big-title{
+	font-size: 70px;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+.signup-form{
+	width: 320px;
+	height: 351px;
+	float: right;
+}
+.shuru{
+	height: 34px;
+	background: white;
+	color: #767676;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	font-size: 16px;
+    background-color: #fafafa;
+    margin-bottom: 10px;
+    padding-top: 10px;
+}
+.small-title{
+	color: #767676;
+}
+.btn{
+	text-align: center;
+	color: #f5f5f5;
+	padding: 12px 20px;
+	font-size: 18px;
+	border-radius: 6px;
+	/*border: 1px solid white;*/
+}
+.btn-title{
+	padding: 10px 10px 10px 10px;
+	background-image: linear-gradient(#8add6d, #60b044);
+}
+/*第二块开始*/
+.love{
+	height: 646px;
+	padding-bottom: 80px;
+	text-align: center;
+}
+.sub-title{
+	font-size: 42px;
+	text-align: center;
+	font-weight: normal;
+}
+.sub-info{
+	font-size: 16px;
+	color: #767676;
+	text-align: center;
+	margin-top: 10px;
+}
+.love-reason{
+	width: 420px;
+	height: 195px;
+/*	border: 1px solid red;*/
+	float: left;
+    padding:25px 20px 40px 20px;
+}
+.enterprise h2{
+	color: #f5f5f5;
+}
+.btn-blue{
+	display: inline-block;
+	/*width: 346px;*/
+	margin: 12px auto;
+	background-image: linear-gradient(#2da9f1, #1a5eb2);
+}
+.enterprise{
+	background-image: linear-gradient(#202d5f,#614381)
+}
+/*第三块开始*/
+.gh-image{
+	width: 100%;
+	margin: 0;
+}
+.di{
+	text-align: center;
+	margin-top: 45px;
+	margin-bottom: 85px;
+}
+
+.btn-green{
+	margin: 12px auto;
+	background-image: linear-gradient(#79d858, #569e3d);
+	border-color: #4a993e;
+	display:inline-block;
+}
+/*尾部开始*/
+.base li{
+	float: left;
+	margin-right: 10px;
+}
+.right{
+	float: right;
+}
+.left{
+	float: left;
+	
+	margin-right: 100px;
+}
+.base{
+    height: 18px;
+	line-height: 18px;
+	color: #767676;
+	font-size: 13px;
+	padding: 40 0px;
+	position: relative;
+}
+.mao{
+	width: 24px;
+	height: 25px;
+	float: left;
+	position: absolute;
+	top: 28px;
+	left: 650px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
